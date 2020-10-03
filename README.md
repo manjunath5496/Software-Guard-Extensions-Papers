@@ -53,7 +53,7 @@ Blockchain Consensus Protocol</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/sgx(28).pdf" style="text-decoration:none;">TrustJS: Trusted Client-side Execution of JavaScript</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/sgx(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/sgx(29).pdf" style="text-decoration:none;">Using Intel Software Guard Extensions for Efficient Two-Party Secure Function Evaluation</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/sgx(30).pdf" style="text-decoration:none;">Intel Software Guard Extensions (Intel SGX) Support for Dynamic Memory Management Inside an Enclave</a></li>
  
